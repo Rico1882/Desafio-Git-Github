@@ -1,5 +1,5 @@
-# Desafio-Git-Github
-Repositório para o Desafio Git/GitHub DIO
+# GFT Java - Desafio
+Repositório para o Desafio Git/GitHub  GFT/Java DIO
 
 Links Úteis:
 [Markdown](https://www.markdownguide.org/getting-started/)
